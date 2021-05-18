@@ -4,4 +4,4 @@ let n = +prompt("Nhập số năm: ");
 let irate = (i_rate/100)/n;
 soTienLai = lend * irate;
 
-document.write(soTienLai);
+document.write(soTienLai + " triệu đồng");
